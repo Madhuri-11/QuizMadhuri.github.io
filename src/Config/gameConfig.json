@@ -1,0 +1,47 @@
+{
+        "0": {
+          "Id": 1,
+          "Title": "In which decade was the Internet first implemented?",
+          "Option1": "1940",
+          "Option2": "1950",
+          "Option3": "1960",
+          "Option4": "1970",
+          "Correct": "1960"
+        },
+        "1": {
+          "Id": 2,
+          "Title": "Where contents of your computer's hard drive indexed?",
+          "Option1": "Yahoo",
+          "Option2": "Google",
+          "Option3": "MSN",
+          "Option4": "None",
+          "Correct": "None"
+        },
+        "2": {
+          "Id": 3,
+          "Title": "Main circuit board in a computer is?",
+          "Option1": "Decoder",
+          "Option2": "Highlight",
+          "Option3": "Select",
+          "Option4": "MotherBoard",
+          "Correct": "MotherBoard"
+        },
+        "3": {
+          "Id": 4,
+          "Title": "How many bits is a byte?",
+          "Option1": "4",
+          "Option2": "8",
+          "Option3": "16",
+          "Option4": "32",
+          "Correct": "8"
+        },
+        "4": {
+          "Id": 5,
+          "Title": "Computers calculate numbers in what mode?",
+          "Option1": "Decimal",
+          "Option2": "Octal",
+          "Option3": "Binary",
+          "Option4": "None",
+          "Correct": "None"
+        }
+}
